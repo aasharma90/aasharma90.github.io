@@ -13,7 +13,6 @@ redirect_from:
 <p style='text-align: justify;'> I obtained my B.Eng. at Delhi College of Engineering (University of Delhi) in 2012, and then spent four years at Freescale Semiconductors (now, NXP Semiconductors), India, before coming to Singapore for higher education. </p>
 
 
-
 Research
 ======
 <p style='text-align: justify;'> My current research work aligns with handling low-level vision problems such as depth from stereo and optical flow estimation, under degraded visibility conditions. Related publications are presented below. </p>
