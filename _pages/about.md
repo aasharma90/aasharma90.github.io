@@ -15,7 +15,7 @@ redirect_from:
 
 Research
 ======
-<p style='text-align: justify;'> My current research work aligns with handling low-level vision problems such as depth from stereo and optical flow estimation, under degraded visibility conditions. Related publications are presented below. </p>
+<p style='text-align: justify;'> My current research work deals with handling low-level vision problems such as depth from stereo and optical flow estimation, under degraded visibility conditions. Related publications are presented below. </p>
 
 <style type="text/css">
     /* Color scheme stolen from Sergey Karayev */
