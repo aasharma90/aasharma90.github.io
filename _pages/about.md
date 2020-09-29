@@ -190,8 +190,8 @@ arXiv19_cstdispnet_stop()
 <a href="./files/arXiv2019_bibtex.txt">bibtex</a>
 |
 <a href="https://github.com/aasharma90/CycleStereoGAN_NighttimeDepth">code</a>
-<p> </p>
-<p> </p>
+<p></p>
+<p>Depth estimation under varying nighttime conditions by imposing stereo-consistency while performing nighttime-daytime cyclic translations.</p>
 </td>
 </tr>
 <!-- Cycle-Stereo DispNet, arXiv'19 -->
