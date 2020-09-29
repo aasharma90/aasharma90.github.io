@@ -145,7 +145,7 @@ cvpr20_fogflownet_stop()
 <em>Computer Vision and Pattern Recognition (CVPR)</em>, 2020, Seattle, USA <br>
 <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Optical_Flow_in_Dense_Foggy_Scenes_Using_Semi-Supervised_Learning_CVPR_2020_paper.pdf">paper</a>
 |		
-<a href="./files/cvpr2020_fogflow_bibtex.txt">bibtex</a>
+<a href="./files/cvpr20_fogflow_bibtex.txt">bibtex</a>
 <p></p>
 <p>Optical flow estimation under dense fog conditions via domain adaptive semi-supervised learning using labelled synthetic and unlabelled real fog data.</p>
 </td>
