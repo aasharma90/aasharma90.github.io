@@ -152,7 +152,7 @@ cvpr20_fogflownet_stop()
 |		
 <a href="./files/cvpr2020_fogflow_bibtex.txt">bibtex</a>
 <p></p>
-<p>Optical flow estimation under dense fog conditions via domain-adaptive semi-supervised learning using labelled synthetic and unlabelled real fog data.</p>
+<p>Optical flow estimation under dense fog conditions via domain adaptive semi-supervised learning using labelled synthetic and unlabelled real fog data.</p>
 </td>
 </tr>
 <!-- FogFlowNet, CVPR'20 -->
@@ -191,7 +191,7 @@ arXiv19_cstdispnet_stop()
 |
 <a href="https://github.com/aasharma90/CycleStereoGAN_NighttimeDepth">code</a>
 <p></p>
-<p>Depth estimation under varying nighttime conditions by imposing stereo-consistency while performing nighttime-daytime cyclic translations.</p>
+<p>Depth estimation under varying nighttime conditions by imposing stereo consistency in nighttime-daytime cyclic translations.</p>
 </td>
 </tr>
 <!-- Cycle-Stereo DispNet, arXiv'19 -->
@@ -229,8 +229,8 @@ eccv18_jss_stop()
 <a href="./files/eccv2018_poster.pdf">poster</a>
 | 
 <a href="./files/eccv2018_bibtex.txt">bibtex</a>
-<p> </p>
-<p> </p>
+<p></p>
+<p>Depth estimation for weakly-lit nighttime images by optimizing a joint structure-structure model.</p>
 </td>
 </tr>
 <!-- Joint Structure-Stereo, ECCV'18 -->
