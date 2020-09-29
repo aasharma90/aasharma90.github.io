@@ -110,8 +110,8 @@ accv20_crfest_stop()
 <a href="">paper</a>
 |		
 <a href="">bibtex</a>
-<p></p>
-<p></p>
+<p> </p>
+<p> </p>
 </td>
 </tr>
 <!-- CRF Estimation, ACCV'20 -->
@@ -146,8 +146,8 @@ cvpr20_fogflownet_stop()
 <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Optical_Flow_in_Dense_Foggy_Scenes_Using_Semi-Supervised_Learning_CVPR_2020_paper.pdf">paper</a>
 |		
 <a href="files/cvpr2020_fogflow_bibtex.txt">bibtex</a>
-<p></p>
-<p></p>
+<p> </p>
+<p> </p>
 </td>
 </tr>
 <!-- FogFlowNet, CVPR'20 -->
@@ -185,8 +185,8 @@ arXiv19_cstdispnet_stop()
 <a href="files/arXiv2019_bibtex.txt">bibtex</a>
 |
 <a href="https://github.com/aasharma90/CycleStereoGAN_NighttimeDepth">code</a>
-<p></p>
-<p></p>
+<p> </p>
+<p> </p>
 </td>
 </tr>
 <!-- Cycle-Stereo DispNet, arXiv'19 -->
@@ -224,8 +224,8 @@ eccv18_jss_stop()
 <a href="files/eccv2018_poster.pdf">poster</a>
 | 
 <a href="files/eccv2018_bibtex.txt">bibtex</a>
-<p></p>
-<p></p>
+<p> </p>
+<p> </p>
 </td>
 </tr>
 <!-- Joint Structure-Stereo, ECCV'18 -->
