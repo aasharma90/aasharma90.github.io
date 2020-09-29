@@ -111,9 +111,9 @@ accv20_crfest_stop()
 <a href="">paper</a>
 |		
 <a href="">bibtex</a>
+<p style='text-align: justify;'> </p>
+<p style='text-align: justify;'> </p>
 </td>
-<p style='text-align: justify;'> </p>
-<p style='text-align: justify;'> </p>
 </tr>
 <!-- CRF Estimation, ACCV'20 -->
 <!-- ###################################################################################################-->
@@ -138,7 +138,7 @@ cvpr20_fogflownet_stop()
 </td>
 <td valign="top" width="75%">
     <a href="http://openaccess.thecvf.com/content_CVPR_2020/html/Yan_Optical_Flow_in_Dense_Foggy_Scenes_Using_Semi-Supervised_Learning_CVPR_2020_paper.html">
-    <papertitle>Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning</papertitle>
+    <papertitle style='text-align: justify;'>Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning</papertitle>
   </a>
   <br>
   Wending Yan*, <strong>Aashish Sharma</strong>*, Robby T. Tan (*equal contribution)
@@ -147,6 +147,8 @@ cvpr20_fogflownet_stop()
 <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Optical_Flow_in_Dense_Foggy_Scenes_Using_Semi-Supervised_Learning_CVPR_2020_paper.pdf">paper</a>
 |		
 <a href="files/cvpr2020_foglow_bibtex.txt">bibtex</a>
+<p style='text-align: justify;'> </p>
+<p style='text-align: justify;'> </p>
 </td>
 </tr>
 <!-- FogFlowNet, CVPR'20 -->
@@ -173,7 +175,7 @@ arXiv19_cstdispnet_stop()
 </td>
 <td valign="top" width="75%">
   <a href="https://arxiv.org/abs/1909.13701">
-    <papertitle>Depth Estimation in Nighttime using Stereo-Consistent Cyclic Translations</papertitle>
+    <papertitle style='text-align: justify;'>Depth Estimation in Nighttime using Stereo-Consistent Cyclic Translations</papertitle>
   </a>
   <br>
   <strong>Aashish Sharma</strong>, Robby T. Tan, Loong-Fah Cheong
@@ -184,6 +186,8 @@ arXiv19_cstdispnet_stop()
 <a href="files/arXiv2019_bibtex.txt">bibtex</a>
 |
 <a href="https://github.com/aasharma90/CycleStereoGAN_NighttimeDepth">code</a>
+<p style='text-align: justify;'> </p>
+<p style='text-align: justify;'> </p>
 </td>
 </tr>
 <!-- Cycle-Stereo DispNet, arXiv'19 -->
@@ -210,7 +214,7 @@ eccv18_jss_stop()
 </td>
 <td valign="top" width="75%">
   <a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Aashish_Sharma_Into_the_Twilight_ECCV_2018_paper.html">
-    <papertitle>Into the Twilight Zone: Depth Estimation using Joint Structure-Stereo Optimization</papertitle>
+    <papertitle style='text-align: justify;'>Into the Twilight Zone: Depth Estimation using Joint Structure-Stereo Optimization</papertitle>
   </a>
   <br>
   <strong>Aashish Sharma</strong>, Loong-Fah Cheong 
@@ -221,6 +225,8 @@ eccv18_jss_stop()
 <a href="files/eccv2018_poster.pdf">poster</a>
 | 
 <a href="files/eccv2018_bibtex.txt">bibtex</a>
+<p style='text-align: justify;'> </p>
+<p style='text-align: justify;'> </p>
 </td>
 </tr>
 <!-- Joint Structure-Stereo, ECCV'18 -->
