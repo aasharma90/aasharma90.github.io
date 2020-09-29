@@ -82,7 +82,7 @@ Research
     }
 </style>
 <!-- ################################  CONTENT START  ##################################################-->
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
 <!-- ############################ Put your publications below this! ####################################-->
 
