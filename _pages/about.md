@@ -90,8 +90,8 @@ Research
 <tr onmouseout="accv20_crfest_stop()" onmouseover="accv20_crfest_start()" >
 <td width="20%">
 <div class="one">
-<div class="two" id = 'accv20_crfest_image'><img src='files/accv20_crfest_after.png'></div>
-<img src='files/accv20_crfest_before.jpg'>
+<div class="two" id = 'accv20_crfest_image'><img src='./files/accv20_crfest_after.png'></div>
+<img src='./files/accv20_crfest_before.jpg'>
 </div>
 <script type="text/javascript">
 function accv20_crfest_start() {
@@ -126,8 +126,8 @@ accv20_crfest_stop()
 <tr onmouseout="cvpr20_fogflownet_stop()" onmouseover="cvpr20_fogflownet_start()" >
 <td width="20%">
 <div class="one">
-<div class="two" id = 'cvpr20_fogflownet_image'><img src='files/cvpr20_fogflow_after.jpg'></div>
-<img src='files/cvpr20_fogflow_before.jpg'>
+<div class="two" id = 'cvpr20_fogflownet_image'><img src='./files/cvpr20_fogflow_after.jpg'></div>
+<img src='./files/cvpr20_fogflow_before.jpg'>
 </div>
 <script type="text/javascript">
 function cvpr20_fogflownet_start() {
@@ -149,7 +149,7 @@ cvpr20_fogflownet_stop()
 <em>Computer Vision and Pattern Recognition (CVPR)</em>, 2020, Seattle, USA <br>
 <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Optical_Flow_in_Dense_Foggy_Scenes_Using_Semi-Supervised_Learning_CVPR_2020_paper.pdf">paper</a>
 |		
-<a href="files/cvpr2020_fogflow_bibtex.txt">bibtex</a>
+<a href="./files/cvpr2020_fogflow_bibtex.txt">bibtex</a>
 <p> </p>
 <p> </p>
 </td>
@@ -163,8 +163,8 @@ cvpr20_fogflownet_stop()
 <tr onmouseout="arXiv19_cstdispnet_stop()" onmouseover="arXiv19_cstdispnet_start()" >
 <td width="20%">
 <div class="one">
-<div class="two" id = 'arXiv19_cstdispnet_image'><img src='files/arXiv19_after.jpg'></div>
-<img src='files/arXiv19_before.jpg'>
+<div class="two" id = 'arXiv19_cstdispnet_image'><img src='./files/arXiv19_after.jpg'></div>
+<img src='./files/arXiv19_before.jpg'>
 </div>
 <script type="text/javascript">
 function arXiv19_cstdispnet_start() {
@@ -186,7 +186,7 @@ arXiv19_cstdispnet_stop()
 <em>arXiv</em>, 2019 <br>
 <a href="https://arxiv.org/pdf/1909.13701.pdf">paper</a>
 | 
-<a href="files/arXiv2019_bibtex.txt">bibtex</a>
+<a href="./files/arXiv2019_bibtex.txt">bibtex</a>
 |
 <a href="https://github.com/aasharma90/CycleStereoGAN_NighttimeDepth">code</a>
 <p> </p>
@@ -202,8 +202,8 @@ arXiv19_cstdispnet_stop()
 <tr onmouseout="eccv18_jss_stop()" onmouseover="eccv18_jss_start()" >
 <td width="20%">
 <div class="one">
-<div class="two" id = 'eccv18_jss_image'><img src='files/eccv18_pic_after.png'></div>
-<img src='files/eccv18_pic_before.png'>
+<div class="two" id = 'eccv18_jss_image'><img src='./files/eccv18_pic_after.png'></div>
+<img src='./files/eccv18_pic_before.png'>
 </div>
 <script type="text/javascript">
 function eccv18_jss_start() {
@@ -225,9 +225,9 @@ eccv18_jss_stop()
 <em>European Conference on Computer Vision (ECCV)</em>, 2018, Munich, Germany <br>
 <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Aashish_Sharma_Into_the_Twilight_ECCV_2018_paper.pdf">paper</a>
 |
-<a href="files/eccv2018_poster.pdf">poster</a>
+<a href="./files/eccv2018_poster.pdf">poster</a>
 | 
-<a href="files/eccv2018_bibtex.txt">bibtex</a>
+<a href="./files/eccv2018_bibtex.txt">bibtex</a>
 <p> </p>
 <p> </p>
 </td>
