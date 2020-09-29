@@ -91,7 +91,7 @@ Research
 <tr onmouseout="accv20_crfest_stop()" onmouseover="accv20_crfest_start()" >
 <td width="20%">
 <div class="one">
-<div class="two" id = 'accv20_crfest_image'><img src='./ffiles/accv20_crfest_after.png'></div>
+<div class="two" id = 'accv20_crfest_image'><img src='./files/accv20_crfest_after.png'></div>
 <img src='./files/accv20_crfest_before.jpg'>
 </div>
 <script type="text/javascript">
