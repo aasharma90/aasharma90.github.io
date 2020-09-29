@@ -89,7 +89,7 @@ Research
 <!-- ###################################################################################################-->
 <!-- CRF Estimation, ACCV'20 -->
 <tr onmouseout="accv20_crfest_stop()" onmouseover="accv20_crfest_start()" >
-<td width="25%">
+<td width="30%">
 <div class="one">
 <div class="two" id = 'accv20_crfest_image'><img src='files/accv20_crfest_after.png'></div>
 <img src='files/accv20_crfest_before.jpg'>
@@ -104,7 +104,7 @@ document.getElementById('accv20_crfest_image').style.opacity = "0";
 accv20_crfest_stop()
 </script>
 </td>
-<td valign="top" width="75%">
+<td valign="top" width="70%">
   <a href="">
   <papertitle style='text-align: justify;'>Single-Image Camera Response Function Using Prediction Consistency and Gradual Refinement</papertitle>
   </a>
@@ -115,8 +115,8 @@ accv20_crfest_stop()
 <a href="">paper</a>
 |		
 <a href="">bibtex</a>
-<p> </p>
-<p> </p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <!-- CRF Estimation, ACCV'20 -->
@@ -125,7 +125,7 @@ accv20_crfest_stop()
 <!-- ###################################################################################################-->
 <!-- FogFlowNet, CVPR'20 -->
 <tr onmouseout="cvpr20_fogflownet_stop()" onmouseover="cvpr20_fogflownet_start()" >
-<td width="25%">
+<td width="30%">
 <div class="one">
 <div class="two" id = 'cvpr20_fogflownet_image'><img src='files/cvpr20_fogflow_after.jpg'></div>
 <img src='files/cvpr20_fogflow_before.jpg'>
@@ -140,7 +140,7 @@ document.getElementById('cvpr20_fogflownet_image').style.opacity = "0";
 cvpr20_fogflownet_stop()
 </script>
 </td>
-<td valign="top" width="75%">
+<td valign="top" width="70%">
     <a href="http://openaccess.thecvf.com/content_CVPR_2020/html/Yan_Optical_Flow_in_Dense_Foggy_Scenes_Using_Semi-Supervised_Learning_CVPR_2020_paper.html">
     <papertitle style='text-align: justify;'>Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning</papertitle>
   </a>
@@ -162,7 +162,7 @@ cvpr20_fogflownet_stop()
 <!-- ###################################################################################################-->
 <!-- Cycle-Stereo DispNet, arXiv'19 -->
 <tr onmouseout="arXiv19_cstdispnet_stop()" onmouseover="arXiv19_cstdispnet_start()" >
-<td width="25%">
+<td width="30%">
 <div class="one">
 <div class="two" id = 'arXiv19_cstdispnet_image'><img src='files/arXiv19_after.jpg'></div>
 <img src='files/arXiv19_before.jpg'>
@@ -177,7 +177,7 @@ document.getElementById('arXiv19_cstdispnet_image').style.opacity = "0";
 arXiv19_cstdispnet_stop()
 </script>
 </td>
-<td valign="top" width="75%">
+<td valign="top" width="70%">
   <a href="https://arxiv.org/abs/1909.13701">
     <papertitle style='text-align: justify;'>Depth Estimation in Nighttime using Stereo-Consistent Cyclic Translations</papertitle>
   </a>
@@ -201,7 +201,7 @@ arXiv19_cstdispnet_stop()
 <!-- ###################################################################################################-->
 <!-- Joint Structure-Stereo, ECCV'18 -->
 <tr onmouseout="eccv18_jss_stop()" onmouseover="eccv18_jss_start()" >
-<td width="25%">
+<td width="30%">
 <div class="one">
 <div class="two" id = 'eccv18_jss_image'><img src='files/eccv18_pic_after.png'></div>
 <img src='files/eccv18_pic_before.png'>
@@ -216,7 +216,7 @@ document.getElementById('eccv18_jss_image').style.opacity = "0";
 eccv18_jss_stop()
 </script>
 </td>
-<td valign="top" width="75%">
+<td valign="top" width="70%">
   <a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Aashish_Sharma_Into_the_Twilight_ECCV_2018_paper.html">
     <papertitle style='text-align: justify;'>Into the Twilight Zone: Depth Estimation using Joint Structure-Stereo Optimization</papertitle>
   </a>
