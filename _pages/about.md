@@ -102,7 +102,7 @@ accv20_crfest_stop()
 </td>
 <td valign="top" width="75%">
   <a href="">
-  <papertitle>Single-Image Camera Response Function Using Prediction Consistency and Gradual Refinement</papertitle>
+  <papertitle style='text-align: justify;'>Single-Image Camera Response Function Using Prediction Consistency and Gradual Refinement</papertitle>
   </a>
   <br>
   <strong>Aashish Sharma</strong>, Robby T. Tan, Loong-Fah Cheong 
@@ -112,6 +112,8 @@ accv20_crfest_stop()
 |		
 <a href="">bibtex</a>
 </td>
+<p style='text-align: justify;'> </p>
+<p style='text-align: justify;'> </p>
 </tr>
 <!-- CRF Estimation, ACCV'20 -->
 <!-- ###################################################################################################-->
