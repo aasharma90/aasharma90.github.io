@@ -108,11 +108,9 @@ accv20_crfest_stop()
   <strong>Aashish Sharma</strong>, Robby T. Tan, Loong-Fah Cheong 
   <br>
 <em>Asian Conference on Computer Vision (ACCV)</em>, 2020, Kyoto, Japan <br>
-<a href=>paper</a>
+<a href="">paper</a>
 |		
-<a href=>bibtex</a>
-<p></p>
-<p>Estimating the Camera Response Function (CRF) from a single image using the ideas of prediciton consistency and gradual refinement.</p>
+<a href="">bibtex</a>
 </td>
 </tr>
 <!-- CRF Estimation, ACCV'20 -->
@@ -147,8 +145,6 @@ cvpr20_fogflownet_stop()
 <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Optical_Flow_in_Dense_Foggy_Scenes_Using_Semi-Supervised_Learning_CVPR_2020_paper.pdf">paper</a>
 |		
 <a href="files/cvpr2020_foglow_bibtex.txt">bibtex</a>
-<p></p>
-<p>Optical flow estimation under dense foggy conditions via domain-adaptive semi-supervised learning.</p>
 </td>
 </tr>
 <!-- FogFlowNet, CVPR'20 -->
@@ -186,8 +182,6 @@ arXiv19_cstdispnet_stop()
 <a href="files/arXiv2019_bibtex.txt">bibtex</a>
 |
 <a href="https://github.com/aasharma90/CycleStereoGAN_NighttimeDepth">code</a>
-<p></p>
-<p>Depth estimation under varying night-time conditions using stereo-consistent cyclic translations.</p>
 </td>
 </tr>
 <!-- Cycle-Stereo DispNet, arXiv'19 -->
@@ -225,8 +219,6 @@ eccv18_jss_stop()
 <a href="files/eccv2018_poster.pdf">poster</a>
 | 
 <a href="files/eccv2018_bibtex.txt">bibtex</a>
-<p></p>
-<p>Depth estimation under poorly-to-well illuminated night-time conditions using joint structure-stereo optimization.</p>
 </td>
 </tr>
 <!-- Joint Structure-Stereo, ECCV'18 -->
