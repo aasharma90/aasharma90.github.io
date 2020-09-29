@@ -186,7 +186,7 @@ arXiv19_cstdispnet_stop()
 |
 <a href="https://github.com/aasharma90/CycleStereoGAN_NighttimeDepth">code</a>
 <p></p>
-<p>Depth estimation under varying nighttime conditions by imposing stereo consistency in nighttime-daytime cyclic translations.</p>
+<p>Depth estimation under poorly-to-well-lit nighttime conditions by imposing stereo consistency in nighttime-daytime cyclic translations.</p>
 </td>
 </tr>
 <!-- Cycle-Stereo DispNet, arXiv'19 -->
