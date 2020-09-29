@@ -11,7 +11,7 @@ redirect_from:
 <p style='text-align: justify;'> I am a Ph.D. student at the National Univeristy of Singapore, under the joint supervision of Prof. <a href="http://tanrobby.github.io/">Robby T. Tan</a> and Prof. <a href="https://www.ece.nus.edu.sg/stfpage/eleclf/">Loong-Fah Cheong</a>. My primary research interests include Computer Vision, Image Processing and Machine Learning.  </p>
 
 <p style='text-align: justify;'> I obtained my B.Eng. at Delhi College of Engineering (University of Delhi) in 2012, and then spent four years at Freescale Semiconductors (now, NXP Semiconductors), India, before coming to Singapore for higher education. </p>
-ch
+
 
 Research
 ======
