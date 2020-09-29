@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "      Aashish Sharma"
+title                    : "Aashish Sharma"
 title_separator          : 
 name                     : &name "Aashish Sharma"
 description              : &description "Ph.D. student at NUS, Singapore"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aashish Sharma"
-  avatar           : "profile.png"
+  avatar           : "files/my_pic.jpg"
   bio              : "National University of Singapore"
   location         : "Singapore"
   employer         :
