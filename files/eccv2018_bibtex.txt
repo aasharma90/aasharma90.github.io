@@ -1,0 +1,7 @@
+@inproceedings{sharma2018into,
+  title={Into the Twilight Zone: Depth Estimation using Joint Structure-Stereo Optimization},
+  author={Sharma, Aashish and Cheong, Loong-Fah},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={103--118},
+  year={2018}
+}

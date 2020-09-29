@@ -1,0 +1,7 @@
+@inproceedings{yan2020optical,
+  title={Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning},
+  author={Yan, Wending and Sharma, Aashish and Tan, Robby T},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={13259--13268},
+  year={2020}
+}
