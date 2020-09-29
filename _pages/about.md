@@ -101,7 +101,7 @@ accv20_crfest_stop()
 </script>
 </td>
 <td valign="top" width="75%">
-  <a href=>
+  <a href="">
   <papertitle>Single-Image Camera Response Function Using Prediction Consistency and Gradual Refinement</papertitle>
   </a>
   <br>
@@ -234,10 +234,3 @@ eccv18_jss_stop()
 
 <!-- ############################ Put your publications above this! ####################################-->
 </table>
-
-
-
-
-
-
-##
