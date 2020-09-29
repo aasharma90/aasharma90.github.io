@@ -32,28 +32,23 @@ Research
     }
     body,td,th,tr,p,a {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    text-align: justify;
     font-size: 14px
     }
     strong {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    text-align: justify;
     font-size: 14px;
     }
     heading {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    text-align: justify;
     font-size: 22px;
     }
     papertitle {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    text-align: justify;
     font-size: 14px;
     font-weight: 700
     }
     name {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    text-align: justify;
     font-size: 32px;
     }
     .one
