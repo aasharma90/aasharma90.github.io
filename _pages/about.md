@@ -18,7 +18,7 @@ Research
 ======
 <p style='text-align: justify;'> My current research work aligns with handling low-level vision problems such as depth from stereo and optical flow estimation, under degraded visibility conditions. Related publications are presented below. </p>
 
-| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/humanioc.png" alt=""> </figure> | **Into the Twilight Zone: Depth Estimation using Joint Structure-Stereo Optimization**<br/><br/><strong>Aashish Sharma</strong>, Loong-Fah Cheong <br/><em>European Conference on Computer Vision (ECCV)</em>, 2018, Munich, Germany<br/>[paper]((http://openaccess.thecvf.com/content_ECCV_2018/papers/Aashish_Sharma_Into_the_Twilight_ECCV_2018_paper.pdf)| [bibtex](docs/ECCV2018_Paper_Bibtex.txt) |
+| <figure style="width: 120px"> <img src="https://github.com/aasharma90/aasharma90_old.github.io/tree/master/pics/eccv18_pic_before.png" alt=""> </figure> | **Into the Twilight Zone: Depth Estimation using Joint Structure-Stereo Optimization**<br/><br/><strong>Aashish Sharma</strong>, Loong-Fah Cheong <br/><em>European Conference on Computer Vision (ECCV)</em>, 2018, Munich, Germany<br/>[paper]((http://openaccess.thecvf.com/content_ECCV_2018/papers/Aashish_Sharma_Into_the_Twilight_ECCV_2018_paper.pdf)| [bibtex](docs/ECCV2018_Paper_Bibtex.txt) |
 
 
 
