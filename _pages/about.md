@@ -152,7 +152,7 @@ cvpr20_fogflownet_stop()
 |		
 <a href="./files/cvpr2020_fogflow_bibtex.txt">bibtex</a>
 <p></p>
-<p>Optical flow estimation under dense fog conditions via domain-adaptive semi-supervised learning (supervised learning from synthetic fog images and unsupervised learning from real fog images).</p>
+<p>Optical flow estimation under dense fog conditions via domain-adaptive semi-supervised learning using labelled synthetic and unlabelled real fog data.</p>
 </td>
 </tr>
 <!-- FogFlowNet, CVPR'20 -->
