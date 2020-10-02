@@ -82,20 +82,20 @@ Research
 
 <!-- ###################################################################################################-->
 <!-- Cycle-Stereo DispNet, 3DV'20 -->
-<tr onmouseout="3dv20_cstdispnet_stop()" onmouseover="3dv20_cstdispnet_start()" >
+<tr onmouseout="threedv20_cstdispnet_stop()" onmouseover="threedv20_cstdispnet_start()" >
 <td width="20%">
 <div class="one">
-<div class="two" id = '3dv20_cstdispnet_image'><img src='./files/3dv20_after.png'></div>
-<img src='./files/3dv20_before.png'>
+<div class="two" id = 'threedv20_cstdispnet_image'><img src='./files/threedv20_after.png'></div>
+<img src='./files/threedv20_before.png'>
 </div>
 <script type="text/javascript">
-function 3dv20_cstdispnet_start() {
-document.getElementById('3dv20_cstdispnet_image').style.opacity = "1";
+function threedv20_cstdispnet_start() {
+document.getElementById('threedv20_cstdispnet_image').style.opacity = "1";
 }
-function 3dv20_cstdispnet_stop() {
-document.getElementById('3dv20_cstdispnet_image').style.opacity = "0";
+function threedv20_cstdispnet_stop() {
+document.getElementById('threedv20_cstdispnet_image').style.opacity = "0";
 }
-3dv20_cstdispnet_stop()
+threedv20_cstdispnet_stop()
 </script>
 </td>
 <td valign="top" width="80%">
