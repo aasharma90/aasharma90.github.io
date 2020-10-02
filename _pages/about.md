@@ -80,7 +80,6 @@ Research
 <tbody>
 <!-- ############################ Put your publications below this! ####################################-->
 
-
 <!-- ###################################################################################################-->
 <!-- Cycle-Stereo DispNet, 3DV'20 -->
 <tr onmouseout="3dv20_cstdispnet_stop()" onmouseover="3dv20_cstdispnet_start()" >
