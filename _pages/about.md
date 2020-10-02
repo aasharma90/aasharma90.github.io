@@ -87,7 +87,7 @@ Research
 <td width="20%">
 <div class="one">
 <div class="two" id = '3dv20_cstdispnet_image'><img src='./files/3dv20_after.png'></div>
-<img src='./files/3dv20_before1.png'>
+<img src='./files/3dv20_before.png'>
 </div>
 <script type="text/javascript">
 function 3dv20_cstdispnet_start() {
