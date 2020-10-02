@@ -111,7 +111,9 @@ document.getElementById('3dv20_cstdispnet_image').style.opacity = "0";
 | 
 <a href="">bibtex</a>
 |
-<a href="https://github.com/aasharma90/CycleStereoGAN_NighttimeDepth">code (arXiv version)</a>
+<a href="https://arxiv.org/abs/1909.13701">arXiv'19</a>
+|
+<a href="https://github.com/aasharma90/CycleStereoGAN_NighttimeDepth">code (arXiv'19)</a>
 <p></p>
 <p></p>
 </td>
