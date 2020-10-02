@@ -80,6 +80,43 @@ Research
 <tbody>
 <!-- ############################ Put your publications below this! ####################################-->
 
+<!-- ###################################################################################################-->
+<!-- Cycle-Stereo DispNet, 3DV'20 -->
+<tr onmouseout="3dv20_cstdispnet_stop()" onmouseover="3dv20_cstdispnet_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = '3dv20_cstdispnet_image'><img src='./files/3dv20_after.jpg'></div>
+<img src='./files/3dv20_before.jpg'>
+</div>
+<script type="text/javascript">
+function 3dv20_cstdispnet_start() {
+document.getElementById('3dv20_cstdispnet_image').style.opacity = "1";
+}
+function 3dv20_cstdispnet_stop() {
+document.getElementById('3dv20_cstdispnet_image').style.opacity = "0";
+}
+3dv20_cstdispnet_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle style='text-align: justify;'>Nighttime Stereo Depth Estimation using Joint Translation-Stereo Learning: Light Effects and Uninformative Regions</papertitle>
+  </a>
+  <br>
+  <strong>Aashish Sharma</strong>, Lionel Heng, Loong-Fah Cheong, Robby T. Tan
+  <br>
+<em>International Conference on 3D Vision (3DV)</em>, 2020, Fukuoka, Japan <br>
+<a href="">paper</a>
+| 
+<a href="">bibtex</a>
+|
+<a href="https://github.com/aasharma90/CycleStereoGAN_NighttimeDepth">code (arXiv version)</a>
+<p></p>
+<p></p>
+</td>
+</tr>
+<!-- Cycle-Stereo DispNet, 3DV'20 -->
+<!-- ###################################################################################################-->
 
 <!-- ###################################################################################################-->
 <!-- CRF Estimation, ACCV'20 -->
@@ -117,6 +154,7 @@ accv20_crfest_stop()
 <!-- CRF Estimation, ACCV'20 -->
 <!-- ###################################################################################################-->
 
+
 <!-- ###################################################################################################-->
 <!-- FogFlowNet, CVPR'20 -->
 <tr onmouseout="cvpr20_fogflownet_stop()" onmouseover="cvpr20_fogflownet_start()" >
@@ -151,45 +189,6 @@ cvpr20_fogflownet_stop()
 </td>
 </tr>
 <!-- FogFlowNet, CVPR'20 -->
-<!-- ###################################################################################################-->
-
-
-<!-- ###################################################################################################-->
-<!-- Cycle-Stereo DispNet, arXiv'19 -->
-<tr onmouseout="arXiv19_cstdispnet_stop()" onmouseover="arXiv19_cstdispnet_start()" >
-<td width="20%">
-<div class="one">
-<div class="two" id = 'arXiv19_cstdispnet_image'><img src='./files/arXiv19_after.jpg'></div>
-<img src='./files/arXiv19_before.jpg'>
-</div>
-<script type="text/javascript">
-function arXiv19_cstdispnet_start() {
-document.getElementById('arXiv19_cstdispnet_image').style.opacity = "1";
-}
-function arXiv19_cstdispnet_stop() {
-document.getElementById('arXiv19_cstdispnet_image').style.opacity = "0";
-}
-arXiv19_cstdispnet_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/1909.13701">
-    <papertitle style='text-align: justify;'>Depth Estimation in Nighttime using Stereo-Consistent Cyclic Translations</papertitle>
-  </a>
-  <br>
-  <strong>Aashish Sharma</strong>, Robby T. Tan, Loong-Fah Cheong
-  <br>
-<em>arXiv</em>, 2019 <br>
-<a href="https://arxiv.org/pdf/1909.13701.pdf">paper</a>
-| 
-<a href="./files/arXiv2019_bibtex.txt">bibtex</a>
-|
-<a href="https://github.com/aasharma90/CycleStereoGAN_NighttimeDepth">code</a>
-<p></p>
-<p>Depth estimation under poorly-to-well-lit nighttime conditions by imposing stereo consistency in nighttime-daytime cyclic translations.</p>
-</td>
-</tr>
-<!-- Cycle-Stereo DispNet, arXiv'19 -->
 <!-- ###################################################################################################-->
 
 
