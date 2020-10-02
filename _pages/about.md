@@ -85,8 +85,8 @@ Research
 <tr onmouseout="3dv20_cstdispnet_stop()" onmouseover="3dv20_cstdispnet_start()" >
 <td width="20%">
 <div class="one">
-<div class="two" id = '3dv20_cstdispnet_image'><img src='./files/3dv20_after.jpg'></div>
-<img src='./files/3dv20_before.jpg'>
+<div class="two" id = '3dv20_cstdispnet_image'><img src='./files/3dv20_after.png'></div>
+<img src='./files/3dv20_before.png'>
 </div>
 <script type="text/javascript">
 function 3dv20_cstdispnet_start() {
