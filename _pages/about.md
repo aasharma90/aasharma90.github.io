@@ -243,5 +243,5 @@ Reviewer: CVPR-V4AS, PSIVT, IJCV
 
 Work Experience
 ======
-- 2017-Present: Research Engineer at ECE Department, NUS, Singapore
-- 2012-2016: Sr. Design Engineer, Freescale Semiconductors (now, NXP Semiconductors), India
+- 2017-Present: Research Engineer at NUS, Singapore
+- 2012-2016: Sr. Design Engineer at Freescale Semiconductors (now, NXP Semiconductors), India
