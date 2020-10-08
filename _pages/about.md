@@ -244,4 +244,4 @@ Reviewer: CVPR, PSIVT, IJCV
 Work Experience
 ======
 - 2017-Present: Research Engineer at NUS, Singapore
-- 2012-2016: Senior Design Engineer at Freescale Semiconductors (now, NXP Semiconductors), India
+- 2012-2016: Senior Design Engineer at Freescale Semiconductors, India
