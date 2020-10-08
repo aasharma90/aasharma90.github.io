@@ -236,3 +236,12 @@ eccv18_jss_stop()
 
 <!-- ############################ Put your publications above this! ####################################-->
 </tbody></table>
+
+Professional Services
+======
+Reviewer: CVPR-V4AS, PSIVT, IJCV
+
+Work Experience
+======
+2017-Present: Research Engineer at ECE Department, NUS, Singapore
+2012-2016: Sr. Design Engineer, Freescale Semiconductors (now, NXP Semiconductors), India
