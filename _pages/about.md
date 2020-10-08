@@ -239,7 +239,7 @@ eccv18_jss_stop()
 
 Professional Services
 ======
-Reviewer: CVPR-V4AS, PSIVT, IJCV
+Reviewer: CVPR, PSIVT, IJCV
 
 Work Experience
 ======
