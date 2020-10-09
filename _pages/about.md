@@ -47,6 +47,12 @@ Research
     font-size: 14px;
     font-weight: 700
     }
+    papertitle_just {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: justify
+    }
     name {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 32px;
@@ -101,7 +107,7 @@ threedv20_cstdispnet_stop()
 </td>
 <td valign="top" width="80%">
   <a href="">
-    <papertitle style='text-align: justify;'>Nighttime Stereo Depth Estimation using Joint Translation-Stereo Learning: Light Effects and Uninformative Regions</papertitle>     
+    <papertitle_just>Nighttime Stereo Depth Estimation using Joint Translation-Stereo Learning: Light Effects and Uninformative Regions</papertitle_just>     
   </a><strong>[Oral Presentation]</strong>
   <br>
   <strong>Aashish Sharma</strong>, Loong-Fah Cheong, Lionel Heng, Robby T. Tan
