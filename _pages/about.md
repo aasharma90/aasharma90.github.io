@@ -108,7 +108,7 @@ threedv20_cstdispnet_stop()
 <td valign="top" width="80%">
   <a href="">
     <papertitle_just>Nighttime Stereo Depth Estimation using Joint Translation-Stereo Learning: Light Effects and Uninformative Regions</papertitle_just>     
-  </a><strong>[Oral Presentation]</strong>
+  </a><strong>[Oral]</strong>
   <br>
   <strong>Aashish Sharma</strong>, Loong-Fah Cheong, Lionel Heng, Robby T. Tan
   <br>
