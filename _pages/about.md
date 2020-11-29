@@ -147,14 +147,14 @@ accv20_crfest_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="">
+  <a href="https://openaccess.thecvf.com/content/ACCV2020/html/Sharma_Single-Image_Camera_Response_Function_Using_Prediction_Consistency_and_Gradual_Refinement_ACCV_2020_paper.html">
   <papertitle style='text-align: justify;'>Single-Image Camera Response Function Using Prediction Consistency and Gradual Refinement</papertitle>
   </a>
   <br>
   <strong>Aashish Sharma</strong>, Robby T. Tan, Loong-Fah Cheong 
   <br>
 <em>Asian Conference on Computer Vision (ACCV)</em>, 2020, Kyoto, Japan <br>
-<a href="">paper</a>
+<a href="https://openaccess.thecvf.com/content/ACCV2020/papers/Sharma_Single-Image_Camera_Response_Function_Using_Prediction_Consistency_and_Gradual_Refinement_ACCV_2020_paper.pdf">paper</a>
 |		
 <a href="">bibtex</a>
 <p></p>
