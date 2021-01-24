@@ -1,0 +1,6 @@
+@inproceedings{sharma2020single,
+  title={Single-Image Camera Response Function Using Prediction Consistency and Gradual Refinement},
+  author={Sharma, Aashish and Tan, Robby T and Cheong, Loong-Fah},
+  booktitle={Proceedings of the Asian Conference on Computer Vision},
+  year={2020}
+}
