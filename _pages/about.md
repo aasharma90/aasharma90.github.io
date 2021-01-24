@@ -106,16 +106,16 @@ threedv20_cstdispnet_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9320347">
     <papertitle_just>Nighttime Stereo Depth Estimation using Joint Translation-Stereo Learning: Light Effects and Uninformative Regions</papertitle_just>     
   </a><strong>[Oral]</strong>
   <br>
   <strong>Aashish Sharma</strong>, Loong-Fah Cheong, Lionel Heng, Robby T. Tan
   <br>
 <em>International Conference on 3D Vision (3DV)</em>, 2020, Fukuoka, Japan <br>
-<a href="">paper</a>
+<a href="https://arxiv.org/pdf/1909.13701.pdf">paper</a>
 | 
-<a href="">bibtex</a>
+<a href="./files/threedv20_cstdispnet_bibtex.txt">bibtex</a>
 |
 <a href="https://arxiv.org/abs/1909.13701v1">arXiv'19</a>
 |
@@ -156,7 +156,7 @@ accv20_crfest_stop()
 <em>Asian Conference on Computer Vision (ACCV)</em>, 2020, Kyoto, Japan <br>
 <a href="https://openaccess.thecvf.com/content/ACCV2020/papers/Sharma_Single-Image_Camera_Response_Function_Using_Prediction_Consistency_and_Gradual_Refinement_ACCV_2020_paper.pdf">paper</a>
 |		
-<a href="">bibtex</a>
+<a href="./files/accv20_crfest_bibtex.txt">bibtex</a>
 <p></p>
 <p></p>
 </td>
