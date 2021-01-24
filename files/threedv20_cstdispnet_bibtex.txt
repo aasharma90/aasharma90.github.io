@@ -1,0 +1,9 @@
+@INPROCEEDINGS{sharma2020nighttime,
+  author={A. {Sharma} and L. -F. {Cheong} and L. {Heng} and R. T. {Tan}},
+  booktitle={2020 International Conference on 3D Vision (3DV)}, 
+  title={Nighttime Stereo Depth Estimation using Joint Translation-Stereo Learning: Light Effects and Uninformative Regions}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={23-31},
+  doi={10.1109/3DV50981.2020.00012}}
