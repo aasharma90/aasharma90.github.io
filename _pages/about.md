@@ -112,8 +112,11 @@ cvpr21_nightenhance_stop()
   <strong>Aashish Sharma</strong>, Robby T. Tan
   <br>
 <em>Computer Vision and Pattern Recognition (CVPR)</em>, 2021, Nashville, USA <br>
+<a href="">paper</a>
+|
+<a href="">bibtex</a>
 <p></p>
-<p></p>
+<p>Nighttime visibility enhancement method that can enhance the low-light regions and suppress glow/glare light effects simultaneously. </p>
 </td>
 </tr>
 <!-- Cycle-Stereo DispNet, 3DV'20 -->
