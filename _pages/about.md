@@ -86,6 +86,40 @@ Research
 <tbody>
 <!-- ############################ Put your publications below this! ####################################-->
 
+<!-- ###################################################################################################-->
+<!-- NightEnhance, CVPR'21 -->
+<tr onmouseout="cvpr21_nightenhance_stop()" onmouseover="cvpr21_nightenhance_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'cvpr21_nightenhance_image'><img src='./files/cvpr21_after.png'></div>
+<img src='./files/cvpr21_before.png'>
+</div>
+<script type="text/javascript">
+function cvpr21_nightenhance_start() {
+document.getElementById('cvpr21_nightenhance_image').style.opacity = "1";
+}
+function cvpr21_nightenhance_stop() {
+document.getElementById('cvpr21_nightenhance_image').style.opacity = "0";
+}
+cvpr21_nightenhance_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just>Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects</papertitle_just>     
+  </a><strong>[Oral]</strong>
+  <br>
+  <strong>Aashish Sharma</strong>,  Robby T. Tan
+  <br>
+<em>Computer Vision and Pattern Recognition (CVPR)</em>, 2021, Nashville, USA <br>
+<a href="">paper</a>
+<p></p>
+<p></p>
+</td>
+</tr>
+<!-- Cycle-Stereo DispNet, 3DV'20 -->
+<!-- ###################################################################################################-->
+
 
 <!-- ###################################################################################################-->
 <!-- Cycle-Stereo DispNet, 3DV'20 -->
