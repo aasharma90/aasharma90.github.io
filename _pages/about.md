@@ -91,8 +91,8 @@ Research
 <tr onmouseout="cvpr21_nightenhance_stop()" onmouseover="cvpr21_nightenhance_start()" >
 <td width="20%">
 <div class="one">
-<div class="two" id = 'cvpr21_nightenhance_image'><img src='./files/cvpr21_after.png'></div>
-<img src='./files/cvpr21_before.png'>
+<div class="two" id = 'cvpr21_nightenhance_image'><img src='./files/cvpr21_after.jpg'></div>
+<img src='./files/cvpr21_before.jpg'>
 </div>
 <script type="text/javascript">
 function cvpr21_nightenhance_start() {
