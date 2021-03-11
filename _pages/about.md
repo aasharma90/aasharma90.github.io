@@ -107,11 +107,11 @@ cvpr21_nightenhance_stop()
 <td valign="top" width="80%">
   <a href="">
     <papertitle_just>Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects</papertitle_just>     
+  </a>
   <br>
-  <strong>Aashish Sharma</strong>,  Robby T. Tan
+  <strong>Aashish Sharma</strong>, Robby T. Tan
   <br>
 <em>Computer Vision and Pattern Recognition (CVPR)</em>, 2021, Nashville, USA <br>
-<a href="">paper</a>
 <p></p>
 <p></p>
 </td>
