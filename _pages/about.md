@@ -116,7 +116,7 @@ cvpr21_nightenhance_stop()
 |
 <a href="">bibtex</a>
 <p></p>
-<p>Nighttime visibility enhancement method that can enhance the low-light regions and suppress glow/glare light effects simultaneously. </p>
+<p></p>
 </td>
 </tr>
 <!-- Cycle-Stereo DispNet, 3DV'20 -->
