@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aashish Sharma"
 title_separator          : 
 name                     : &name "Aashish Sharma"
-description              : &description "Ph.D. student at NUS, Singapore"
+description              : &description "Scientist at I2R, A*STAR, Singapore"
 url                      : https://aasharma90.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aasharma90/aasharma90.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aashish Sharma"
   avatar           : "my_pic.jpg"
-  bio              : "National University of Singapore"
+  bio              : "Scientist-A*STAR | PhD-NUS"
   location         : "Singapore"
   employer         :
   pubmed           : 
