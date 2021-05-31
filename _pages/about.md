@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style='text-align: justify;'> I'm presently working as a Scientist in the <a href="https://www.a-star.edu.sg/i2r">Institute of Infocomm Research (I2R)</a> division of A*Star, Singapore.  I obtained my Ph.D. at the National Univeristy of Singapore, under the joint supervision of Prof. <a href="http://tanrobby.github.io/">Robby T. Tan</a> and Prof. <a href="https://www.ece.nus.edu.sg/stfpage/eleclf/">Loong-Fah Cheong</a>. I've also worked in collaboration with Dr. <a href="http://www.lionel.work/">Lionel Heng</a> from DSO National Labortories, Singapore. My primary research interests include Computer Vision and Deep Learning. </p>
+<p style='text-align: justify;'> I'm presently working as a Scientist in the <a href="https://www.a-star.edu.sg/i2r">Institute of Infocomm Research (I2R)</a> division of A*STAR, Singapore.  I obtained my Ph.D. at the National Univeristy of Singapore, under the joint supervision of Prof. <a href="http://tanrobby.github.io/">Robby T. Tan</a> and Prof. <a href="https://www.ece.nus.edu.sg/stfpage/eleclf/">Loong-Fah Cheong</a>. I've also worked in collaboration with Dr. <a href="http://www.lionel.work/">Lionel Heng</a> from DSO National Labortories, Singapore. My primary research interests include Computer Vision and Deep Learning. </p>
 
 <p style='text-align: justify;'> Previously, I worked as a senior design engineer at Freescale Semiconductors, India. I obtained my B.Eng. from Delhi College of Engineering, University of Delhi, India. </p>
 
