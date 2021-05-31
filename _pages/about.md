@@ -279,7 +279,7 @@ eccv18_jss_stop()
 <!-- ############################ Put your publications above this! ####################################-->
 </tbody></table>
 
-Professional Services
+Academic Services
 ======
 Reviewer: CVPR-V4AS'19, PSIVT'19, IJCV'20, MVA'21, 3DV'21
 
