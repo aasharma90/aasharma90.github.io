@@ -285,7 +285,7 @@ Reviewer: CVPR-V4AS'19, PSIVT'19, IJCV'20, MVA'21, 3DV'21
 
 Education
 ======
-- Jul'2016-May'2021: Ph.D. (Computer Vision and Deep Learning), NUS, Singapore
+- Feb'2017-May'2021: Ph.D. (Computer Vision and Deep Learning), NUS, Singapore
 - Aug'2008-Jun'2012: B.Eng.(Electronics and Communication), DCE, Delhi University, India
 
 Work Experience
