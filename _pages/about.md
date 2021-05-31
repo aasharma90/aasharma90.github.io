@@ -281,9 +281,10 @@ eccv18_jss_stop()
 
 Professional Services
 ======
-Reviewer: CVPR, PSIVT, IJCV
+Reviewer: CVPR-V4AS'19, PSIVT'19, IJCV'20, MVA'21, 3DV'21
 
 Work Experience
 ======
-- 2017-Present: Research Engineer at NUS, Singapore
-- 2012-2016: Senior Design Engineer at Freescale Semiconductors, India
+- Jun'2021-        : Scientist at I2R, A\*STAR, Singapore
+- Feb'2017-May'2021: Research Engineer at NUS, Singapore
+- Jun'2012-May'2016: Senior Design Engineer at Freescale Semiconductors, India
